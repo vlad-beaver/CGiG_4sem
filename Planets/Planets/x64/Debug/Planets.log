@@ -1,0 +1,44 @@
+﻿  stdafx.cpp
+  ChildView.cpp
+  CMatrix.cpp
+  LibChart2D.cpp
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(72,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(72,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(72,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(72,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(73,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(73,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(73,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(73,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(74,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(74,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(74,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(74,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(77,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(77,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(77,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(77,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(78,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(78,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(78,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(78,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(79,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(79,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(79,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(79,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(153,91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(153,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(153,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(153,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(160,91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(160,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(160,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(160,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(170,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(170,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(170,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\CGiG_labs-master\Planets\Planets\LibChart2D.cpp(170,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MainFrm.cpp
+  Planets.cpp
+  Создание кода...
+  Planets.vcxproj -> C:\Users\User\Desktop\CGiG_labs-master\Planets\x64\Debug\Planets.exe
